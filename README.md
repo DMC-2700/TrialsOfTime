@@ -14,5 +14,10 @@ After That Press F5 To Run It glhf!
 
 Pre Requsites:
 Python
+
 OS: Windows
+
 Storage: 100 mb
+
+
+Releases: https://github.com/DMC-2700/TrialsOfTime/releases
