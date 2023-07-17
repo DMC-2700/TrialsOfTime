@@ -1,0 +1,16 @@
+Welcome To The Setup Information File, To Start With Here's A Few FAQ's.
+
+
+Q1: How Do I Open The Game?
+A1: You Open The Game By Right Clcking On The File Known As Game.py And Clicking On Edit With IDLE.
+
+
+Q2: How Do I Play The Game?
+A2: Maybe Start By Looking For A File Called "Starting Off.txt"
+
+
+Q3: The Game Dosen't Work, What Do I Do?
+A3: You Could Try Reloading The Game Or Downloading It Again From The Site
+
+
+Site: https://sites.google.com/view/trials-of-time/home
