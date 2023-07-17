@@ -1,2 +1,3 @@
-# TrialsOfTime
-Trials Of Time Python Game
+This Is The Readme Text File Of Trials Of Time
+
+If You Are Intrested In Finding Out How The Game Works, Please Refer To Another Text Document In This File. If You Have Downloaded Trials Of Fire, You Are Allowing This Application To Access Files For Only The Sole Reason To Get The Game's Image Files. If You Have Downloaded This And Is Looking For A Guide, Look For "Setup Information.txt" & "Starting Off.txt". Have Fun Time Adventurer! The Other Files Included In This Package Are Python Files Or Game Files That Are Used To Run The Game. Please Do Not Edit The Files That Come Along With This Game, Just Run The Python File "Game.py"
